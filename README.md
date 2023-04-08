@@ -8,6 +8,7 @@ Visit our state of the art portfolio [PromptBroker](https://promptbase.com/profi
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 Don't forget to:
 
