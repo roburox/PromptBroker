@@ -2,12 +2,20 @@
 
 Welcome to PromptBroker, the ultimate destination for high-quality prompts. Proud Product from #HustleGPT. DM your prompts requests. 👀 our prompts portfolio 👉 [@PromptBrocker](https://twitter.com/PromptBroker)
 
-Visit our state of the art [PromptBroker](https://promptbase.com/profile/promptbroker) and request any prompt from us!
+Visit our state of the art portfolio [PromptBroker](https://promptbase.com/profile/promptbroker) and request any prompt from us directly [@PromptBrocker](https://twitter.com/PromptBroker)!
 
-## GitHub best prompts resources
+## GitHub best prompt resources
 
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+
+Don't forget to:
+
+⭐⭐⭐ Give this repo a star so it become the one-stop-gallery for ChatGPT and MidJourney Prompts!
+
+🔖🔖🔖 Bookmark this page to check in an everyone's progress! 
+
+👉👉👉 [Follow me on Twitter @aminblm](https://twitter.com/aminblm)
 
 
 This repository is written to help understand the topic of prompt engineering. We will help you master this topic by answering your questions and providing detailed explanations to ensure that you have a thorough understanding of the subject.
