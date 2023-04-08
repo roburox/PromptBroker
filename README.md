@@ -9,6 +9,7 @@ Visit our state of the art portfolio [PromptBroker](https://promptbase.com/profi
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [ChatGPT DAN](https://github.com/0xk1h0/ChatGPT_DAN)
 
 Don't forget to:
 
@@ -18,6 +19,9 @@ Don't forget to:
 
 👉👉👉 [Follow me on Twitter @aminblm](https://twitter.com/aminblm)
 
+## PromptBroker Prompts
+
+- []()
 
 This repository is written to help understand the topic of prompt engineering. We will help you master this topic by answering your questions and providing detailed explanations to ensure that you have a thorough understanding of the subject.
 
