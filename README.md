@@ -2,6 +2,8 @@
 
 Welcome to PromptBroker, the ultimate destination for high-quality prompts. Proud Product from #HustleGPT. DM your prompts requests. 👀 our prompts portfolio 👉 [@PromptBrocker](https://twitter.com/PromptBroker)
 
+🚀 The story of how it started is here with [@aminblm/PromptBroker/Story](https://twitter.com/aminblm/status/1644285323390734338?s=20)
+
 Visit our state of the art portfolio [PromptBroker](https://promptbase.com/profile/promptbroker) and request any prompt from us directly [@PromptBrocker](https://twitter.com/PromptBroker)!
 
 ## GitHub best prompt resources
