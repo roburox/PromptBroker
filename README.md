@@ -21,9 +21,6 @@ Don't forget to:
 
 👉👉👉 [Follow us on Twitter @aminblm](https://twitter.com/promptbroker)
 
-## Understand the Prompt Engineering game
-
-- [What is Prompt Engineering?](Prompt-Engineering.md)
 ## PromptBroker Prompts
 
 ### World-class growth hacker and entrepreneur
